@@ -8,7 +8,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.zip
+*.app
 # Distribution / packaging
 .Python
 env/
